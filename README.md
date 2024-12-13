@@ -1,4 +1,4 @@
-# kotlin-web-maven-springboot-thyme-hello-world
+# kotlin-web-maven-springboot-thyme-stylus-hello
 
 ## Description
 A POC for spring framework.
@@ -6,8 +6,10 @@ A POC for spring framework.
 ## Tech stack
 - spring boot
 - thymeleaf
+- npm
 
 ## Docker stack
+- alpine:edge
 - maven:3-openjdk-17
 
 ## To run
@@ -18,4 +20,3 @@ A POC for spring framework.
 
 ## To see help
 `sudo ./install.sh -h`
-
